@@ -4,7 +4,7 @@
   "description": "基于Node.js的PandasAI数据分析MCP服务",
   "main": "index.js",
   "bin": {
-    "pandasai-mcp": "./bin/cli.js"
+    "pandasai-mcp": "./dist/index.js"
   },
   "scripts": {
     "start": "node index.js",
